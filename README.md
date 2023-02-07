@@ -13,7 +13,7 @@ This is a simple Book Management API that allows you to add, edit, retrieve, and
 
 1. Clone this repository.
 ```git
-git clone https://github.com/Xekhai/book-directory.git
+git clone https://github.com/Xekhai/Book-Directory.git
 ```
 2. Install dependencies.
 ```javascript
